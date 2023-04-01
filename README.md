@@ -2,5 +2,5 @@
 
 # Logic Building
 
-#### It Contains My all Devlopment Codes 
+#### It Contains all source codes of Java technology 
 
